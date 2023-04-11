@@ -8,6 +8,9 @@ packages = [{include = "chat_with_pdf"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+streamlit = "^1.21.0"
+llama-index = "^0.5.12"
+python-dotenv = "^1.0.0"
 
 
 [build-system]
